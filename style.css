@@ -1,0 +1,47 @@
+body {
+    font-size: 15pt;
+    
+}
+.main_yes{
+  font-family:monospace;
+  margin-top:150px;
+  color:white;
+  border:5px solid pink;
+  border-radius:5px;
+  background-color:pink;
+  text-align:center;
+}
+.menu{
+  font-family:'Lucida Calligraphy', cursive;
+  margin-top:150px;
+  background-color:pink;
+  border-radius:5px;
+  padding:10px;
+  position:static;
+  color:white;
+  text-align:center;
+}
+#yes{
+  border:1px solid pink;
+  border-radius:5px;
+  background-color:white;
+  color:pink;
+  width:100px;
+  height:30px;
+  position:static;
+}
+#no{
+  margin-top:0px;
+  margin-bottom:15px;
+  border:1px solid pink;
+  border-radius:5px;
+  background-color:white;
+  color:pink;
+  width:100px;
+  height:30px;
+  position:relative;
+  transition:.5s;
+}
+#p{
+  color:white;
+}
